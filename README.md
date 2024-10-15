@@ -1,3 +1,5 @@
+## Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -64,7 +66,10 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:Rahul Vijay V  RegisterNumber:212223040164
+ ```
+ Developed by:Rahul Vijay V  
+ RegisterNumber:212223040164
+```
  ```
 module logic_gates(a,b,andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate);
 input a,b;
