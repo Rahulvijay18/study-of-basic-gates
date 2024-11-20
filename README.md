@@ -83,6 +83,9 @@ xor(xorgate,a,b);
 xnor(xnorgate,a,b);
 endmodule
 ```
+**Logic symbol & Truthtable**
+![image](https://github.com/user-attachments/assets/2cdd3d53-7c2e-4778-9a05-d2d9c15b062c)
+
 
 **RTL realization Output:** 
 ![Screenshot 2024-08-28 114415](https://github.com/user-attachments/assets/c7ba4ba8-fe14-46b0-984d-feadac5ed794)
@@ -92,7 +95,7 @@ endmodule
 ![Screenshot 2024-08-28 114745](https://github.com/user-attachments/assets/5b23162f-dd34-4de4-b43a-77d07b9fc5c0)
 
 
-**Result:**
+**Result:**<BR>
 The program is verified successfully using the software quartus prime.
 
 
